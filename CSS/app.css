@@ -1,0 +1,10 @@
+
+
+.container-fluid{
+    display:flex;
+}
+
+.section{
+    flex: 1;
+}
+/* HOMEWORK: Learn about Flex-box */
